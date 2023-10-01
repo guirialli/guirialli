@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Guilherme Rialli Oliveira;
-- 👀 I’m interested in Java, JS, GO, C# e kotlin; 
-- 🌱 I’m currently learning  kotlin;
-- 💞️ I’m looking to collaborate on Java projects;
-- 📫 How to reach me gui.rialli@gmail.com;
-
-<!---
-guirialli/guirialli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Guilherme Rialli Oliveira;
+👀 I’m interested in Java, JavaScript, Go, C#, Kotlin, and React Native;
+🌱 I’m currently learning React Native;
+💼 I work as a Fullstack JavaScript Developer at Atlantic Nickel;
+🌐 I use React, Angular, Express, Node.js, and more in my work;
+🐧 My favorite OS is Linux, which I use both on servers and desktop;
+📎 LinkedIn: Guilherme Rialli Oliveira;
+📫 You can reach me at gui.rialli@gmail.com.
