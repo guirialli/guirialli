@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="https://stickershop.line-scdn.net/stickershop/v1/product/8140588/LINEStorePC/main.png?v=1" width="200px"/> </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Guilherme Rialli</h1>
 <h3 align="center">Software Engineer | Software Developer
@@ -12,8 +12,8 @@
 
 <p align="center">
   <em>
-    This is ME, Guilherme Rialli, a <b>final year</b> undergraduate from <a href="https://estacio.br/"> <b>University Estacio SA</b>, Brazil</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, Guilherme Rialli, a <b>final year</b> undergraduate from <a href="https://estacio.br/"> <b>University Estacio SA</b>, in Brazil</a>. <br>
+    A <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -22,30 +22,30 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Atlantic Nickel** Building software to improve the mining process.<br>
-✔ I’m currently learning  **GO**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Pronouns: **He/His** or **TeamMaker** 😉  <br>
+✔ Currently Developing: Software to improve the mining process at **Atlantic Nickel**  <br>
+✔ Currently learning: **GO**  <br>
+✔ Looking to collaborate on: **Open-Source contributions**  <br>
+✔ Seeking help with: Learning **Remote Sensing**  <br>
+✔ Ask me about anything; I am happy to help, but only if the ball is in my court! 😉  <br>
+✔ Fun fact: *During stress coding, I tend to be in half-sleeping mode.* <br>
+
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
-  
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> </code>
-  <code> <img height="50" src="https://www.drupal.org/files/project-images/screenshot_361.png"> </code>
-   <code> <img height="50" src="https://cdn.thenewstack.io/media/2021/10/84b1b2cf-postgreselepantwbg.png"> </code>
-   <code> <img height="50" src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp"> </code>
-   <code> <img height="50" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png"> </code>
-   <code> <img height="50" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png"> </code>
+<p align="center">
+  <code> <img height="60" width="60" alt="node" src="https://woliveiras.com.br/_astro/nodejs.CEmblA6_.png"> </code>
+  <code><img height="50" width="60"  alt="go" src="https://www.freecodecamp.org/news/content/images/2020/02/golang-gopher-2.jpg"> </code>
+  <code> <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"> </code>
+  <code> <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> </code>
+  <code> <img height="60" width="60" src="https://www.drupal.org/files/project-images/screenshot_361.png"> </code>
+   <code> <img height="60" width="60" src="https://cdn.thenewstack.io/media/2021/10/84b1b2cf-postgreselepantwbg.png"> </code>
+   <code> <img height="60" width="60" src="https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp"> </code>
+   <code> <img height="60" width="60" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png"> </code>
+   <code> <img height="60" width="60" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png"> </code>
   <hr>
   <p align="center">
 
