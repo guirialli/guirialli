@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://stickershop.line-scdn.net/stickershop/v1/product/8140588/LINEStorePC/main.png?v=1" width="200px"/> </p>
-<hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Guilherme Rialli</h1>
 <h3 align="center">Software Engineer | Software Developer
 <p align="center">
@@ -47,5 +45,4 @@
    <code> <img height="60" width="60" src="https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png"> </code>
    <code> <img height="60" width="60" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png"> </code>
   <hr>
-  <p align="center">
-
+  <p align="center"> <img src="https://stickershop.line-scdn.net/stickershop/v1/product/8140588/LINEStorePC/main.png?v=1" width="200px"/> </p>
