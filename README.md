@@ -35,6 +35,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="center">
+   <code> <img height="60" width="60" alt="java" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png"> </code>
   <code> <img height="60" width="60" alt="node" src="https://woliveiras.com.br/_astro/nodejs.CEmblA6_.png"> </code>
   <code><img height="50" width="60"  alt="go" src="https://www.freecodecamp.org/news/content/images/2020/02/golang-gopher-2.jpg"> </code>
   <code> <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"> </code>
